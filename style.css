@@ -1,0 +1,9 @@
+.grid-container {
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+ button {
+    margin: 20px;
+ }
